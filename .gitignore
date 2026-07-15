@@ -117,3 +117,5 @@ plan/
 
 # Web
 .career-ops-web/logo-cache/
+venv/
+cv.md
